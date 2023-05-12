@@ -1,0 +1,54 @@
+hi{
+    color: #999999;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin: bottom 1px;
+    text-decoration: underline;
+}
+
+img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding:5px;
+    width: 150px;
+    height: 150px;
+}
+
+img:hover{
+    box-shadow: 0 0 2px 1 px rgba(0, 140, 186,0.5)
+}
+
+body {
+    background-color:#fdffcd;
+}
+
+table{
+    border-collapse:collapse;
+    border: 1px solid black;
+}
+
+th,td{
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.para{
+color: blue;
+font-size: 20px;
+font-weight: bolder;
+font-style: italic;
+}
+
+ol li{
+    background: #ffe5e5;
+    color: darkred;
+    padding: 5px;
+    margin-left: 35px;
+}
+
+.soccer{
+    text-align: center;
+    border: 3px solid green;
+}
